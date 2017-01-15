@@ -1,3 +1,5 @@
+### This solution is extremely inefficient... improvement coming soon.
+
 import math
 
 m = int(input())
